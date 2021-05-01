@@ -1,7 +1,11 @@
 Access veritabanı kullanarak Çok Katmanlı Mimari ile Kütüphane Otomasyonu Projesi
+KATMANLAR
+1- DATA ACCESS LAYER
+2- BUSINESS LAYER
+3- PRESENTATION LAYER
 
 
-
+FORM TASARIMI EKRAN GÖRÜNTÜLERİ
 
 ![1](https://user-images.githubusercontent.com/68777717/116794705-c2edff80-aad7-11eb-95b1-54255004d41d.png)
 ![2](https://user-images.githubusercontent.com/68777717/116794707-c41f2c80-aad7-11eb-8e60-c6f297cd0135.png)
